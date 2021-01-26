@@ -114015,8 +114015,6 @@ perf.cdnads.com
 granbonsai.com
 obmenfast.ru
 zeelver.com
-
-c:\users\ben\downloads\txt\CryptoWall-Ransomware-C2-Domain-blocklist.txt
 7-eleven-handbags.com
 8vs.com
 abdal.com.ua
@@ -114152,8 +114150,6 @@ www.rippedknees.co.uk
 www.taoblu.com
 www.vishvagujarat.com
 www.weddingsonthefrenchriviera.com
-
-c:\users\ben\downloads\txt\iHateTracker.txt
 tlx.3lift.com
 fd.3.cn
 168logger.com
@@ -114530,7 +114526,6 @@ stroeer.com
 sovrn.com
 thetimmedia.com
 ssp.ynxs.io
-c:\users\ben\downloads\txt\Locky-Ransomware-C2-Domain-Blocklist.txt
 aarnknthc.xyz
 abvtqhwodwjmi.work
 acbstypdrijslr.ru
@@ -114745,8 +114740,6 @@ ytcijiooxdtlbevrh.info
 yuertao.pw
 yuysikankhqvdwdv.xyz
 ywjgjvpuyitnbiw.info
-
-c:\users\ben\downloads\txt\Ransomware-Domain-Blocklist.txt
 25z5g623wpqpdwis.onion.to
 27c73bq66y4xqoh7.dorfact.at
 27lelchgcvs2wpm7.3lhjyx.top
@@ -116650,8 +116643,6 @@ zjfq4lnfbs7pncr5.onion.to
 zjfq4lnfbs7pncr5.tor2web.org
 ztuw5bvuuapzdfya.klimbim.pl
 zutzt67dcxr6mxcn.onion.to
-
-c:\users\ben\downloads\txt\TeslaCrypt-Ransomware-C2-Domain-Blocklist.txt
 43nutrientes.com
 4turka.com
 addagapublicschool.com
@@ -116794,8 +116785,6 @@ www.maniffatoretraiteur.com
 www.teacherassist.info
 yoyoeventos.com
 zavidovodom.com
-
-c:\users\ben\downloads\txt\TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.txt
 2bdfb.spinakrosa.at
 2gdb4.leoraorage.at
 5rport45vcdef345adfkksawe.bematvocal.at
@@ -116862,8 +116851,6 @@ wor4d.slewirk.at
 y4bxj.adozeuds.com
 ytrest84y5i456hghadefdsd.pontogrot.com
 yyre45dbvn2nhbefbmh.begumvelic.at
-
-c:\users\ben\downloads\txt\TorrentLocker-Ransomware-C2-Domain-Blocklist.txt
 baggir.org
 bedrifg.org
 bigdoggi.biz
@@ -116897,8 +116884,6 @@ vizkore.biz
 wotreposdo.net
 xefarporove.net
 xxryposdrt.org
-
-c:\users\ben\downloads\txt\TorrentLocker-Ransomware-Payment-Sites-Domain-Blocklist.txt
 27c73bq66y4xqoh7.dorfact.at
 2ymh2gnnbg6pgq2r.gremsot.pl
 2ymh2gnnbg6pgq2r.winregion.tw
